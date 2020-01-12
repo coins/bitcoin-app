@@ -2,7 +2,7 @@
   "name": "Bitcoin App",
   "short_name": "Bitcoin App",
   "description": "The Bitcoin App for beginners",
-  "start_url": "/",
+  "start_url": "/bitcoin-app/",
   "display": "standalone",
   "theme_color": "#424242",
   "background_color": "#424242",
