@@ -7,7 +7,9 @@ It is basically a user-friendly frontend for [Warp Wallet Deterministic Key Gene
 - Generate a memorizable Bitcoin Account from Email and Password ( without a trusted third party )
   - Compatible with Password Managers
   - Compatible with TouchID / FaceID
-- Progressive Web App ( Install on Homescreen or Desktop. Never visit fake domains )
+- Progressive Web App
+  - Install on Homescreen or Desktop. Never visit fake domains
+  - Circumvent App Store or Play Store
 - No Framework. Simple Code for good auditability.
 - Clean Design
 - Simply dump the root folder on your own server to host the wallet yourself.
