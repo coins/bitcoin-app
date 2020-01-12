@@ -5,13 +5,13 @@ Experimental Bitcoin App. Built for usability research.
 It is basically a user-friendly frontend for [Warp Wallet Deterministic Key Generator](https://keybase.io/warp/warp_1.0.9_SHA256_a2067491ab582bde779f4505055807c2479354633a2216b22cf1e92d1a6e4a87.html).
 
 ## Features
-- Generate a memorizable Bitcoin Account from Email and Password ( without a trusted third party )
-  - Compatible with Password Managers
+- Generate a memorizable Bitcoin account from email and password ( without a trusted third party )
+  - Compatible with password managers
   - Compatible with TouchID / FaceID
 - Progressive Web App
   - Install on Homescreen or Desktop. Never visit fake domains
   - Circumvent App Store or Play Store
-- No Framework. Simple Code for good auditability.
+- No Framework. Simple code for good auditability.
 - Clean Design
 - Simply dump the root folder on your own server to host the wallet yourself.
 
