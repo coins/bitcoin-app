@@ -1,0 +1,21 @@
+{
+  "name": "Bitcoin App",
+  "short_name": "Bitcoin App",
+  "description": "The Bitcoin App for beginners",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#424242",
+  "background_color": "#424242",
+  "icons": [
+    {
+      "src": "images/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
